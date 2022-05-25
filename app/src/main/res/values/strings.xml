@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test2</string>
+    <string name="cd">contentdesc</string>
+    <string name="signupas">Sign up as:</string>
+    <string name="signUp">Sign Up</string>
+    <string name="email">e-mail</string>
+    <string name="password">password</string>
+    <string name="phone_number">phone number</string>
+    <string name="product_name">Product name</string>
+    <string name="delivery_service">Delivery service</string>
+    <string name="supplier_name">Supplier name</string>
+    <string name="align">Align QR code within the frame to start scanning</string>
+</resources>
